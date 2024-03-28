@@ -1,0 +1,12 @@
+/* Change the color of the waveform */
+.wavesurfer .wavesurfer-progress {
+    background-color: orange;
+}
+
+/* Increase the height of the waveform */
+/* .display-waveform {
+    height: 60;
+    visibility: visible;
+   
+   
+} */
